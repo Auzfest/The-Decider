@@ -8,7 +8,7 @@ This software opens a window with text area, buttons, and a text field. It lets 
 This software was created to help make a random decision for someone when needed. There are times when there are many options or routes to take.
 It can be hard to choose which one such as where to eat or what game to play. This software allows people to input a list of decisions that could be made and the let computer decide to make it easier on them.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]https://www.youtube.com/watch?v=5DMMVWUWyZ4
 
 # Development Environment
 
